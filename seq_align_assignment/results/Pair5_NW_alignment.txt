@@ -1,0 +1,6 @@
+Pair5 Global (NW) score=153
+Params: match=2, mismatch=-1, gap=-2
+Aligned 1: TCGATCGTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAG-------------------------------------------------------------------------------------C--
+Matchers:                                                                                                                                                                                        
+Aligned 2: ----------------------------------------------------------------------------------------------GCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTACGATCGAC
+Identity: 0.000

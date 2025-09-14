@@ -1,0 +1,6 @@
+Pair7 Global (NW) score=51
+Params: match=2, mismatch=-1, gap=-2
+Aligned 1: TTAAATTATATATATACGCGCGCGCGACACACACACAC-------------------T-G--AT--CT-A-TACG-C-G-C-G-C-G-C-G-CGAT-A-G-C--GATAGCG-------ATC-G-ATC-G-C-G-C---TATATAT-A--T-A
+Matchers:                                                                                                              | |                           ||||||| |  | |
+Aligned 2: --------------------------------------TATATATAGCGCGATCGATCGCTATCGCTAT-C--G-C-G-C-G-C-G-C-G-TA-T-A-G-ATCA-G-TGTGTGTGTGT-C-G-CGC-G-C-G-C-GTATATATATAATTTAA
+Identity: 0.079

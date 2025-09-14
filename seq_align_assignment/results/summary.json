@@ -1,0 +1,222 @@
+[
+  {
+    "pair": "Pair1",
+    "algo": "NW",
+    "score": 52,
+    "identity": 0.0124,
+    "match": 2,
+    "mismatch": -1,
+    "gap": -2,
+    "alignment_txt": "seq_align_assignment/results/Pair1_NW_alignment.txt",
+    "heatmap_png": "seq_align_assignment/results/Pair1_NW_matrix.png"
+  },
+  {
+    "pair": "Pair1",
+    "algo": "SW",
+    "score": 56,
+    "identity": 0.58,
+    "match": 2,
+    "mismatch": -1,
+    "gap": -2,
+    "alignment_txt": "seq_align_assignment/results/Pair1_SW_alignment.txt",
+    "heatmap_png": "seq_align_assignment/results/Pair1_SW_matrix.png"
+  },
+  {
+    "pair": "Pair2",
+    "algo": "NW",
+    "score": 49,
+    "identity": 0.0183,
+    "match": 2,
+    "mismatch": -1,
+    "gap": -2,
+    "alignment_txt": "seq_align_assignment/results/Pair2_NW_alignment.txt",
+    "heatmap_png": "seq_align_assignment/results/Pair2_NW_matrix.png"
+  },
+  {
+    "pair": "Pair2",
+    "algo": "SW",
+    "score": 56,
+    "identity": 0.662,
+    "match": 2,
+    "mismatch": -1,
+    "gap": -2,
+    "alignment_txt": "seq_align_assignment/results/Pair2_SW_alignment.txt",
+    "heatmap_png": "seq_align_assignment/results/Pair2_SW_matrix.png"
+  },
+  {
+    "pair": "Pair3",
+    "algo": "NW",
+    "score": 114,
+    "identity": 0.0,
+    "match": 2,
+    "mismatch": -1,
+    "gap": -2,
+    "alignment_txt": "seq_align_assignment/results/Pair3_NW_alignment.txt",
+    "heatmap_png": "seq_align_assignment/results/Pair3_NW_matrix.png"
+  },
+  {
+    "pair": "Pair3",
+    "algo": "SW",
+    "score": 121,
+    "identity": 0.7935,
+    "match": 2,
+    "mismatch": -1,
+    "gap": -2,
+    "alignment_txt": "seq_align_assignment/results/Pair3_SW_alignment.txt",
+    "heatmap_png": "seq_align_assignment/results/Pair3_SW_matrix.png"
+  },
+  {
+    "pair": "Pair4",
+    "algo": "NW",
+    "score": 60,
+    "identity": 0.0122,
+    "match": 2,
+    "mismatch": -1,
+    "gap": -2,
+    "alignment_txt": "seq_align_assignment/results/Pair4_NW_alignment.txt",
+    "heatmap_png": "seq_align_assignment/results/Pair4_NW_matrix.png"
+  },
+  {
+    "pair": "Pair4",
+    "algo": "SW",
+    "score": 66,
+    "identity": 0.6146,
+    "match": 2,
+    "mismatch": -1,
+    "gap": -2,
+    "alignment_txt": "seq_align_assignment/results/Pair4_SW_alignment.txt",
+    "heatmap_png": "seq_align_assignment/results/Pair4_SW_matrix.png"
+  },
+  {
+    "pair": "Pair5",
+    "algo": "NW",
+    "score": 153,
+    "identity": 0.0,
+    "match": 2,
+    "mismatch": -1,
+    "gap": -2,
+    "alignment_txt": "seq_align_assignment/results/Pair5_NW_alignment.txt",
+    "heatmap_png": "seq_align_assignment/results/Pair5_NW_matrix.png"
+  },
+  {
+    "pair": "Pair5",
+    "algo": "SW",
+    "score": 162,
+    "identity": 0.9651,
+    "match": 2,
+    "mismatch": -1,
+    "gap": -2,
+    "alignment_txt": "seq_align_assignment/results/Pair5_SW_alignment.txt",
+    "heatmap_png": "seq_align_assignment/results/Pair5_SW_matrix.png"
+  },
+  {
+    "pair": "Pair6",
+    "algo": "NW",
+    "score": 131,
+    "identity": 0.0,
+    "match": 2,
+    "mismatch": -1,
+    "gap": -2,
+    "alignment_txt": "seq_align_assignment/results/Pair6_NW_alignment.txt",
+    "heatmap_png": "seq_align_assignment/results/Pair6_NW_matrix.png"
+  },
+  {
+    "pair": "Pair6",
+    "algo": "SW",
+    "score": 149,
+    "identity": 0.9625,
+    "match": 2,
+    "mismatch": -1,
+    "gap": -2,
+    "alignment_txt": "seq_align_assignment/results/Pair6_SW_alignment.txt",
+    "heatmap_png": "seq_align_assignment/results/Pair6_SW_matrix.png"
+  },
+  {
+    "pair": "Pair7",
+    "algo": "NW",
+    "score": 51,
+    "identity": 0.0789,
+    "match": 2,
+    "mismatch": -1,
+    "gap": -2,
+    "alignment_txt": "seq_align_assignment/results/Pair7_NW_alignment.txt",
+    "heatmap_png": "seq_align_assignment/results/Pair7_NW_matrix.png"
+  },
+  {
+    "pair": "Pair7",
+    "algo": "SW",
+    "score": 79,
+    "identity": 0.6778,
+    "match": 2,
+    "mismatch": -1,
+    "gap": -2,
+    "alignment_txt": "seq_align_assignment/results/Pair7_SW_alignment.txt",
+    "heatmap_png": "seq_align_assignment/results/Pair7_SW_matrix.png"
+  },
+  {
+    "pair": "Pair8",
+    "algo": "NW",
+    "score": 76,
+    "identity": 0.0,
+    "match": 2,
+    "mismatch": -1,
+    "gap": -2,
+    "alignment_txt": "seq_align_assignment/results/Pair8_NW_alignment.txt",
+    "heatmap_png": "seq_align_assignment/results/Pair8_NW_matrix.png"
+  },
+  {
+    "pair": "Pair8",
+    "algo": "SW",
+    "score": 111,
+    "identity": 0.9825,
+    "match": 2,
+    "mismatch": -1,
+    "gap": -2,
+    "alignment_txt": "seq_align_assignment/results/Pair8_SW_alignment.txt",
+    "heatmap_png": "seq_align_assignment/results/Pair8_SW_matrix.png"
+  },
+  {
+    "pair": "Pair9",
+    "algo": "NW",
+    "score": 163,
+    "identity": 0.0056,
+    "match": 2,
+    "mismatch": -1,
+    "gap": -2,
+    "alignment_txt": "seq_align_assignment/results/Pair9_NW_alignment.txt",
+    "heatmap_png": "seq_align_assignment/results/Pair9_NW_matrix.png"
+  },
+  {
+    "pair": "Pair9",
+    "algo": "SW",
+    "score": 163,
+    "identity": 0.9255,
+    "match": 2,
+    "mismatch": -1,
+    "gap": -2,
+    "alignment_txt": "seq_align_assignment/results/Pair9_SW_alignment.txt",
+    "heatmap_png": "seq_align_assignment/results/Pair9_SW_matrix.png"
+  },
+  {
+    "pair": "Pair10",
+    "algo": "NW",
+    "score": 121,
+    "identity": 0.0,
+    "match": 2,
+    "mismatch": -1,
+    "gap": -2,
+    "alignment_txt": "seq_align_assignment/results/Pair10_NW_alignment.txt",
+    "heatmap_png": "seq_align_assignment/results/Pair10_NW_matrix.png"
+  },
+  {
+    "pair": "Pair10",
+    "algo": "SW",
+    "score": 140,
+    "identity": 0.9481,
+    "match": 2,
+    "mismatch": -1,
+    "gap": -2,
+    "alignment_txt": "seq_align_assignment/results/Pair10_SW_alignment.txt",
+    "heatmap_png": "seq_align_assignment/results/Pair10_SW_matrix.png"
+  }
+]

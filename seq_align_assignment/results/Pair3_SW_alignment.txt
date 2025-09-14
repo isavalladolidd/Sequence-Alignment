@@ -1,0 +1,6 @@
+Pair3 Local (SW) score=121
+Params: match=2, mismatch=-1, gap=-2
+Aligned 1: CATAC--CGACAAACGTGTGCA--TGCATGCATGCATGCATGCATGCATGCATGCATGCATGCATGCACATGCATACGTGCGTGTCTACGTA
+Matchers:  | |||  | ||  |||| ||||  ||||||||||||||||||||||||||||||||||||||||||  |||||| ||||  ||   || | |
+Aligned 2: CGTACGTCTACGCACGTATGCATGTGCATGCATGCATGCATGCATGCATGCATGCATGCATGCATG--CATGCACACGTTTGTCGGTATGCA
+Identity: 0.793

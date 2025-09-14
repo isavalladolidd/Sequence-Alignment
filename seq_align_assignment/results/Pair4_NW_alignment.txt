@@ -1,0 +1,6 @@
+Pair4 Global (NW) score=60
+Params: match=2, mismatch=-1, gap=-2
+Aligned 1: GGATGCGACTAGGAGTCGAGTGTCGATTCTATAGCGATAGCGAGTAGCGACTAGTCA---------------------------C-T--GT-----------AC-T-G--T--A-G--CA--TA-G---CGA-TA-C-G--A--GCAT-A-G-C--A--TAGCA
+Matchers:                                                                                                                                                   |                | 
+Aligned 2: ---------------------------------------------------------TGCTATGCTATGCTCGTATCGCTATGCTACAGTGACTAGTCGCTAC-T-C-GC-TA-TCGCT-ATAGA-ATCGA-CA-C-TCGA-CTCCT-A-G-T-CGCAT--CC-
+Identity: 0.012

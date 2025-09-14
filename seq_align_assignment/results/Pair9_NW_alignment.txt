@@ -1,0 +1,6 @@
+Pair9 Global (NW) score=163
+Params: match=2, mismatch=-1, gap=-2
+Aligned 1: GCATGCGACTT--------AG-C-T-A-G-C-T-A-G-C-T-A-G-C-T-A-G-C-T-A-G-C-T-A-G-C-T-A-G-C-T-A-G-C-T-A-G-C-T-A-G-C-T-A-G-C-T-A-G-C-T-A-G-C-T-A-G-C-T-A-G-C-T-A-G-C-T-A-G-C-T-AG--CTAG-C-A-T-G-C
+Matchers:                                                                                                                                                                    |                 
+Aligned 2: -----------GCATGCTAG-C-T-A-G-C-T-A-G-C-T-A-G-C-T-A-G-C-T-A-G-C-T-A-G-C-T-A-G-C-T-A-G-C-T-A-G-C-T-A-G-C-T-A-G-C-T-A-G-C-T-A-G-C-T-A-G-C-T-A-G-C-T-A-G-C-T-A-G-C-T-AA-GT-CG-C-A-T-G-C-
+Identity: 0.006

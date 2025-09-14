@@ -1,0 +1,6 @@
+Pair7 Local (SW) score=79
+Params: match=2, mismatch=-1, gap=-2
+Aligned 1: TATATATACGCGCGCGCGACACACACACACTGATCTATACGCGCGCGCG---CGAT-AGCGATAGCG-ATCGATCGCGC-TATATATATA
+Matchers:  |||||||| |||||  |||  | |  |  | |  |||| ||||||||||    ||| || |   | |  |||  ||||| ||||||||||
+Aligned 2: TATATATA-GCGCGATCGA-TCGC-TA-TC-G--CTAT-CGCGCGCGCGTATAGATCAGTGTGTGTGTGTCGCGCGCGCGTATATATATA
+Identity: 0.678

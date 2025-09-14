@@ -1,0 +1,6 @@
+Pair10 Global (NW) score=121
+Params: match=2, mismatch=-1, gap=-2
+Aligned 1: CGCGATAGCGATAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTA----------------------------------------------------------------------------G-
+Matchers:                                                                                                                                                                             
+Aligned 2: ---------------------------------------------------------------------------------------------CTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTATCGCTATCGCG
+Identity: 0.000

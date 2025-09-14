@@ -1,0 +1,6 @@
+Pair2 Global (NW) score=49
+Params: match=2, mismatch=-1, gap=-2
+Aligned 1: GTAGTCATTACCCATAGGCGTTTGCTGACTATCGGGAGAGG------------------------------T----ACG-TAC-G-TGAT-ACGA-C-TGT-C-G-AT-CGC-T--CG-T--A-G-ATC-A-AGATA--C-TCA---GCG--T-GCT-G-T-C-
+Matchers:                                                                                                                                        |       |    |                
+Aligned 2: -----------------------------------------GACAGCACGCTGAGTATCTTGATCTACGATCGACAG-TC--GT-A--T-C-A-CG-TA-CG-T-ACCT-CTC-CCG-A-TA-G-T-C-A-GCAA--AC-GCCTATGG--GT-AAT-G-ACTAC
+Identity: 0.018

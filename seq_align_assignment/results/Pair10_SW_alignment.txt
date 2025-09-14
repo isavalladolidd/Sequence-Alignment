@@ -1,0 +1,6 @@
+Pair10 Local (SW) score=140
+Params: match=2, mismatch=-1, gap=-2
+Aligned 1: CTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGC
+Matchers:  |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  | |||| |
+Aligned 2: CTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTA--TCGCTATC
+Identity: 0.948

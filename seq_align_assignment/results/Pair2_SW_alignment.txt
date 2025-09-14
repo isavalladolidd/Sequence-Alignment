@@ -1,0 +1,6 @@
+Pair2 Local (SW) score=56
+Params: match=2, mismatch=-1, gap=-2
+Aligned 1: GCTGACTATCGGGAGAGGTACGTACGTGATACGACTGTCG-ATCGC-T-CGTA--GATCAAGATACTCAGC
+Matchers:  ||||| ||||    ||  | | |||  ||| |||| |||| ||| | | ||||    ||  |||| |||||
+Aligned 2: GCTGAGTATC--TTGA--T-C-TAC--GAT-CGACAGTCGTATCACGTACGTACCTCTCCCGATAGTCAGC
+Identity: 0.662

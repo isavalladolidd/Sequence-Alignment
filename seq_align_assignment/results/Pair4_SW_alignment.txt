@@ -1,0 +1,6 @@
+Pair4 Local (SW) score=66
+Params: match=2, mismatch=-1, gap=-2
+Aligned 1: TGCGA--CTAGGAGTCGAGTGTCGATTCTATAGCGATAGCGAGTAG-CGACTAGTCACTGT-ACTGTAGCATAGCGATACGA-GCATAGCATAGCA
+Matchers:  ||| |  ||| |  ||  || |||   |||| || | || || ||| || ||| || || |  || ||| || |  |  |||  | |||  | |||
+Aligned 2: TGCTATGCTATG-CTC--GTATCG---CTAT-GCTACAGTGACTAGTCG-CTACTCGCTATCGCTATAGAATCGACACTCGACTCCTAG--TCGCA
+Identity: 0.615

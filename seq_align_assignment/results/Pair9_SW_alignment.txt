@@ -1,0 +1,6 @@
+Pair9 Local (SW) score=163
+Params: match=2, mismatch=-1, gap=-2
+Aligned 1: GCATGCGACTTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCATGC
+Matchers:  ||||  | | ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  | ||||||
+Aligned 2: GCAT--G-C-TAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAAGTCGCATGC
+Identity: 0.926
