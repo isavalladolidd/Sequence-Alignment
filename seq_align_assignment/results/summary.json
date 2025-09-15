@@ -7,8 +7,8 @@
     "match": 2,
     "mismatch": -1,
     "gap": -2,
-    "alignment_txt": "seq_align_assignment/results/Pair1_NW_alignment.txt",
-    "heatmap_png": "seq_align_assignment/results/Pair1_NW_matrix.png"
+    "alignment_txt": "seq_align_assignment\\results\\Pair1_NW_alignment.txt",
+    "heatmap_png": "seq_align_assignment\\results\\Pair1_NW_matrix.png"
   },
   {
     "pair": "Pair1",
@@ -18,8 +18,8 @@
     "match": 2,
     "mismatch": -1,
     "gap": -2,
-    "alignment_txt": "seq_align_assignment/results/Pair1_SW_alignment.txt",
-    "heatmap_png": "seq_align_assignment/results/Pair1_SW_matrix.png"
+    "alignment_txt": "seq_align_assignment\\results\\Pair1_SW_alignment.txt",
+    "heatmap_png": "seq_align_assignment\\results\\Pair1_SW_matrix.png"
   },
   {
     "pair": "Pair2",
@@ -29,8 +29,8 @@
     "match": 2,
     "mismatch": -1,
     "gap": -2,
-    "alignment_txt": "seq_align_assignment/results/Pair2_NW_alignment.txt",
-    "heatmap_png": "seq_align_assignment/results/Pair2_NW_matrix.png"
+    "alignment_txt": "seq_align_assignment\\results\\Pair2_NW_alignment.txt",
+    "heatmap_png": "seq_align_assignment\\results\\Pair2_NW_matrix.png"
   },
   {
     "pair": "Pair2",
@@ -40,8 +40,8 @@
     "match": 2,
     "mismatch": -1,
     "gap": -2,
-    "alignment_txt": "seq_align_assignment/results/Pair2_SW_alignment.txt",
-    "heatmap_png": "seq_align_assignment/results/Pair2_SW_matrix.png"
+    "alignment_txt": "seq_align_assignment\\results\\Pair2_SW_alignment.txt",
+    "heatmap_png": "seq_align_assignment\\results\\Pair2_SW_matrix.png"
   },
   {
     "pair": "Pair3",
@@ -51,8 +51,8 @@
     "match": 2,
     "mismatch": -1,
     "gap": -2,
-    "alignment_txt": "seq_align_assignment/results/Pair3_NW_alignment.txt",
-    "heatmap_png": "seq_align_assignment/results/Pair3_NW_matrix.png"
+    "alignment_txt": "seq_align_assignment\\results\\Pair3_NW_alignment.txt",
+    "heatmap_png": "seq_align_assignment\\results\\Pair3_NW_matrix.png"
   },
   {
     "pair": "Pair3",
@@ -62,8 +62,8 @@
     "match": 2,
     "mismatch": -1,
     "gap": -2,
-    "alignment_txt": "seq_align_assignment/results/Pair3_SW_alignment.txt",
-    "heatmap_png": "seq_align_assignment/results/Pair3_SW_matrix.png"
+    "alignment_txt": "seq_align_assignment\\results\\Pair3_SW_alignment.txt",
+    "heatmap_png": "seq_align_assignment\\results\\Pair3_SW_matrix.png"
   },
   {
     "pair": "Pair4",
@@ -73,8 +73,8 @@
     "match": 2,
     "mismatch": -1,
     "gap": -2,
-    "alignment_txt": "seq_align_assignment/results/Pair4_NW_alignment.txt",
-    "heatmap_png": "seq_align_assignment/results/Pair4_NW_matrix.png"
+    "alignment_txt": "seq_align_assignment\\results\\Pair4_NW_alignment.txt",
+    "heatmap_png": "seq_align_assignment\\results\\Pair4_NW_matrix.png"
   },
   {
     "pair": "Pair4",
@@ -84,8 +84,8 @@
     "match": 2,
     "mismatch": -1,
     "gap": -2,
-    "alignment_txt": "seq_align_assignment/results/Pair4_SW_alignment.txt",
-    "heatmap_png": "seq_align_assignment/results/Pair4_SW_matrix.png"
+    "alignment_txt": "seq_align_assignment\\results\\Pair4_SW_alignment.txt",
+    "heatmap_png": "seq_align_assignment\\results\\Pair4_SW_matrix.png"
   },
   {
     "pair": "Pair5",
@@ -95,8 +95,8 @@
     "match": 2,
     "mismatch": -1,
     "gap": -2,
-    "alignment_txt": "seq_align_assignment/results/Pair5_NW_alignment.txt",
-    "heatmap_png": "seq_align_assignment/results/Pair5_NW_matrix.png"
+    "alignment_txt": "seq_align_assignment\\results\\Pair5_NW_alignment.txt",
+    "heatmap_png": "seq_align_assignment\\results\\Pair5_NW_matrix.png"
   },
   {
     "pair": "Pair5",
@@ -106,8 +106,8 @@
     "match": 2,
     "mismatch": -1,
     "gap": -2,
-    "alignment_txt": "seq_align_assignment/results/Pair5_SW_alignment.txt",
-    "heatmap_png": "seq_align_assignment/results/Pair5_SW_matrix.png"
+    "alignment_txt": "seq_align_assignment\\results\\Pair5_SW_alignment.txt",
+    "heatmap_png": "seq_align_assignment\\results\\Pair5_SW_matrix.png"
   },
   {
     "pair": "Pair6",
@@ -117,8 +117,8 @@
     "match": 2,
     "mismatch": -1,
     "gap": -2,
-    "alignment_txt": "seq_align_assignment/results/Pair6_NW_alignment.txt",
-    "heatmap_png": "seq_align_assignment/results/Pair6_NW_matrix.png"
+    "alignment_txt": "seq_align_assignment\\results\\Pair6_NW_alignment.txt",
+    "heatmap_png": "seq_align_assignment\\results\\Pair6_NW_matrix.png"
   },
   {
     "pair": "Pair6",
@@ -128,8 +128,8 @@
     "match": 2,
     "mismatch": -1,
     "gap": -2,
-    "alignment_txt": "seq_align_assignment/results/Pair6_SW_alignment.txt",
-    "heatmap_png": "seq_align_assignment/results/Pair6_SW_matrix.png"
+    "alignment_txt": "seq_align_assignment\\results\\Pair6_SW_alignment.txt",
+    "heatmap_png": "seq_align_assignment\\results\\Pair6_SW_matrix.png"
   },
   {
     "pair": "Pair7",
@@ -139,8 +139,8 @@
     "match": 2,
     "mismatch": -1,
     "gap": -2,
-    "alignment_txt": "seq_align_assignment/results/Pair7_NW_alignment.txt",
-    "heatmap_png": "seq_align_assignment/results/Pair7_NW_matrix.png"
+    "alignment_txt": "seq_align_assignment\\results\\Pair7_NW_alignment.txt",
+    "heatmap_png": "seq_align_assignment\\results\\Pair7_NW_matrix.png"
   },
   {
     "pair": "Pair7",
@@ -150,8 +150,8 @@
     "match": 2,
     "mismatch": -1,
     "gap": -2,
-    "alignment_txt": "seq_align_assignment/results/Pair7_SW_alignment.txt",
-    "heatmap_png": "seq_align_assignment/results/Pair7_SW_matrix.png"
+    "alignment_txt": "seq_align_assignment\\results\\Pair7_SW_alignment.txt",
+    "heatmap_png": "seq_align_assignment\\results\\Pair7_SW_matrix.png"
   },
   {
     "pair": "Pair8",
@@ -161,8 +161,8 @@
     "match": 2,
     "mismatch": -1,
     "gap": -2,
-    "alignment_txt": "seq_align_assignment/results/Pair8_NW_alignment.txt",
-    "heatmap_png": "seq_align_assignment/results/Pair8_NW_matrix.png"
+    "alignment_txt": "seq_align_assignment\\results\\Pair8_NW_alignment.txt",
+    "heatmap_png": "seq_align_assignment\\results\\Pair8_NW_matrix.png"
   },
   {
     "pair": "Pair8",
@@ -172,8 +172,8 @@
     "match": 2,
     "mismatch": -1,
     "gap": -2,
-    "alignment_txt": "seq_align_assignment/results/Pair8_SW_alignment.txt",
-    "heatmap_png": "seq_align_assignment/results/Pair8_SW_matrix.png"
+    "alignment_txt": "seq_align_assignment\\results\\Pair8_SW_alignment.txt",
+    "heatmap_png": "seq_align_assignment\\results\\Pair8_SW_matrix.png"
   },
   {
     "pair": "Pair9",
@@ -183,8 +183,8 @@
     "match": 2,
     "mismatch": -1,
     "gap": -2,
-    "alignment_txt": "seq_align_assignment/results/Pair9_NW_alignment.txt",
-    "heatmap_png": "seq_align_assignment/results/Pair9_NW_matrix.png"
+    "alignment_txt": "seq_align_assignment\\results\\Pair9_NW_alignment.txt",
+    "heatmap_png": "seq_align_assignment\\results\\Pair9_NW_matrix.png"
   },
   {
     "pair": "Pair9",
@@ -194,8 +194,8 @@
     "match": 2,
     "mismatch": -1,
     "gap": -2,
-    "alignment_txt": "seq_align_assignment/results/Pair9_SW_alignment.txt",
-    "heatmap_png": "seq_align_assignment/results/Pair9_SW_matrix.png"
+    "alignment_txt": "seq_align_assignment\\results\\Pair9_SW_alignment.txt",
+    "heatmap_png": "seq_align_assignment\\results\\Pair9_SW_matrix.png"
   },
   {
     "pair": "Pair10",
@@ -205,8 +205,8 @@
     "match": 2,
     "mismatch": -1,
     "gap": -2,
-    "alignment_txt": "seq_align_assignment/results/Pair10_NW_alignment.txt",
-    "heatmap_png": "seq_align_assignment/results/Pair10_NW_matrix.png"
+    "alignment_txt": "seq_align_assignment\\results\\Pair10_NW_alignment.txt",
+    "heatmap_png": "seq_align_assignment\\results\\Pair10_NW_matrix.png"
   },
   {
     "pair": "Pair10",
@@ -216,7 +216,7 @@
     "match": 2,
     "mismatch": -1,
     "gap": -2,
-    "alignment_txt": "seq_align_assignment/results/Pair10_SW_alignment.txt",
-    "heatmap_png": "seq_align_assignment/results/Pair10_SW_matrix.png"
+    "alignment_txt": "seq_align_assignment\\results\\Pair10_SW_alignment.txt",
+    "heatmap_png": "seq_align_assignment\\results\\Pair10_SW_matrix.png"
   }
 ]
